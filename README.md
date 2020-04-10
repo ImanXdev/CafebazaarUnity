@@ -5,7 +5,7 @@ Cafebazaar In-app purchase Unity plugin
 Cafebazaar Update-check service plugin
 
 ## Improvments
-1. Add Biling system prefab with easy to use
+1. Add Billing system prefab with easy to use
 2. Auto reloading system
 3. Retry system
 4. Application Update revision checking
